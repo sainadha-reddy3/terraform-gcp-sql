@@ -1,0 +1,5 @@
+project_id      = "your-gcp-project-id"
+region          = "your-region"
+db_name         = "example-db"
+db_user         = "example-user"
+db_password     = "CHANGE_ME"
